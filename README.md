@@ -8,9 +8,9 @@ This [free consulting project](https://aspose-free-consulting.github.io/) uses [
 
 **Set License File:** It's advised that you must have a valid license file before using the application. In case you do not have one, you can still use the trial version of API (It limits the API usage features) but suggested approach is to use the API with license. You can buy our product license or may request a [Free trial license](https://purchase.aspose.com/temporary-license) to evaluate the API with complete features on your end.
 
-**Set the path for DWG file:** The application is a simple console based application where you will be required to set the path for source DWG file. In this example, we have placed the source DWG file ([Lines.dwg]) in the Debug folder. You can use any location as per your requirements.
+**Set the path for DWG file:** The application is a simple console based application where you will be required to set the path for source DWG file. In this example, we have placed the source DWG file ([Lines.dwg](https://github.com/aspose-free-consulting/convert-dwg-to-dxf/blob/master/DWGToEDXF/bin/Debug/Line.dwg)) in the Debug folder. You can use any location as per your requirements.
 
-**Set the path for Target DXF file:** You need to set the path and name of desired DXF file as per your convenience. In this sample project, we have set the name of DXF file as [Line.dxf]() and placed that in the Debug folder. You can use any location as per your requirements.
+**Set the path for Target DXF file:** You need to set the path and name of desired DXF file as per your convenience. In this sample project, we have set the name of DXF file as [Line.dxf](https://github.com/aspose-free-consulting/convert-dwg-to-dxf/blob/master/DWGToEDXF/bin/Debug/Line.dxf) and placed that in the Debug folder. You can use any location as per your requirements.
 
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
