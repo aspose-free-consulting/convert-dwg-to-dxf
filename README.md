@@ -12,7 +12,7 @@ This [free consulting project](https://aspose-free-consulting.github.io/) uses [
 
 **Set the path for Target DXF file:** You need to set the path and name of desired DXF file as per your convenience. In this sample project, we have set the name of DXF file as [Line.dxf](https://github.com/aspose-free-consulting/convert-dwg-to-dxf/blob/master/DWGToEDXF/bin/Debug/Line.dxf) and placed that in the Debug folder. You can use any location as per your requirements.
 
-**Converting loaded DWF to DXF file:** Once you have loaded the source file, you nned simple API calls to save the loaded DWG as DXF. It has been eleborated in the example code. You can please also check the doccumentation link, [Convert DWG Drawings to DXF](https://docs.aspose.com/cad/net/dwg-drawings/#convert-dwg-drawings-to-dxf).
+**Converting loaded DWG to DXF file:** Once you have loaded the source file, you nned simple API calls to save the loaded DWG as DXF. It has been eleborated in the example code. You can please also check the doccumentation link, [Convert DWG Drawings to DXF](https://docs.aspose.com/cad/net/dwg-drawings/#convert-dwg-drawings-to-dxf).
 
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
