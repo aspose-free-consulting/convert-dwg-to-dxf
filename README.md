@@ -2,7 +2,7 @@
 
 This [free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.CAD](https://products.aspose.com/cad) to save DWG file as DXF. In this utility project we will load one  of our DWG files (Line.dwg) using Aspose.CAD for .NET API and will then be saving that as DXF file Line.dxf) using simple API calls.
 
-# ScreenShots of Usage
+# Guidelines for Usage
 
 **Install latest API version from Nuget:** In order to use the sample project, you need to install the latest availble version of [Aspose.CAD for .NET from NUGET](https://www.nuget.org/packages/Aspose.CAD/).
 
